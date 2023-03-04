@@ -19,7 +19,7 @@ Once you have provided all the required information, the calculator will estimat
 
 # Code explanation:
 
-The traffic_analysis.py script is written in Python and consists of several functions that perform specific tasks. The main function is called "calculate_carbon_emissions". This function takes various parameters as input and returns the estimated carbon emissions.
+The traffic_analysis.py script is written in Python and consists of several functions that perform specific tasks. The main function is called "calculate_carbon_emissions". This function takes various parameters as input and returns the estimated carbon emissions based on the data found in a CSV file named "traffic_data.csv"
 
 The script uses the "pandas" library to read data from a CSV file containing information about different vehicle types and their fuel efficiency. The script also uses the "argparse" library to parse command-line arguments.
 
