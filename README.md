@@ -1,6 +1,4 @@
 # ClimateCalc
-Python-based carbon emission calculator that I developed to measure the carbon footprint of different transportation modes.
-
 ClimateCalc is a tool designed to help users estimate their carbon footprint related to transportation. It can be used by individuals, organizations, and researchers to assess the impact of their transportation-related activities on the environment. 
 
 # How to use:
