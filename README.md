@@ -1,5 +1,5 @@
 # ClimateCalc
-ClimateCalc is a tool designed to help users estimate their carbon footprint related to transportation. It can be used by individuals, organizations, and researchers to assess the impact of their transportation-related activities on the environment. 
+ClimateCalc is a tool designed to help users estimate their carbon footprint related to transportation. It can be used by individuals, organizations, and researchers to assess the impact of their transportation-related activities on the environment.
 
 # How to use:
 
@@ -19,10 +19,4 @@ Once you have provided all the required information, the calculator will estimat
 
 The traffic_analysis.py script is written in Python and consists of several functions that perform specific tasks. The main function is called "calculate_carbon_emissions". This function takes various parameters as input and returns the estimated carbon emissions based on the data found in a CSV file named "traffic_data.csv"
 
-The script uses the "pandas" library to read data from a CSV file containing information about different vehicle types and their fuel efficiency. The script also uses the "argparse" library to parse command-line arguments.
-
-The code is well-documented, and comments are provided to explain each function and its purpose. The script is designed to be easily customizable, allowing users to modify the parameters and add new features.
-
-# Potentialities for climate change:
-
-The calculator has potential for climate change research and sustainability initiatives. The tool can be used by individuals and organizations to assess the impact of their transportation-related activities on the environment. The calculator can also be used by researchers to study the effects of different transportation policies and technologies on carbon emissions.
+The script uses pandas to read data from a CSV file containing information about different vehicle types and their fuel efficiency. The script also uses the argparse library to parse command-line arguments.
